@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Boy_Adventura_2025",
+			"Path": "D:\\Game\\Boy_Adventura_2025\\Source\\Boy_Adventura_2025.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Boy_Adventura_2025Editor",
+			"Path": "D:\\Game\\Boy_Adventura_2025\\Source\\Boy_Adventura_2025Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Boy_Adventura_2025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{20A489E6-8D29-41E1-B6C2-E1974581F93C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Boy_Adventura_2025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Boy_Adventura_2025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2B7A279E-AB9B-4D3A-887C-545C580CE172}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Boy_Adventura_2025">
+      <UniqueIdentifier>{5C8BAF19-AFBF-4113-B338-B1D84A2E6271}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025.Build.cs">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025Character.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025Character.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025GameMode.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025GameMode.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Obstaculo.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Obstaculo.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Obstaculo_Piso.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Obstaculo_Piso.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Piso_Congelante.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Piso_Congelante.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Piso_Lentitud.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Piso_Lentitud.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
