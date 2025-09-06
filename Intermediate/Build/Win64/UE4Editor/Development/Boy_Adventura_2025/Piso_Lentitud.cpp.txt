@@ -2,9 +2,6 @@ D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Development\Boy_Ad
 D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025\Piso_Lentitud.h
 D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025\Obstaculo_Piso.h
 D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025\Obstaculo.h
-D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Obstaculo.generated.h
-D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Obstaculo_Piso.generated.h
-D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Piso_Lentitud.generated.h
 D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025\Boy_Adventura_2025Character.h
 D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
@@ -13,6 +10,9 @@ D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotion
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
 D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Boy_Adventura_2025Character.generated.h
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Obstaculo.generated.h
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Obstaculo_Piso.generated.h
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Piso_Lentitud.generated.h
 D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
 D:\juegazo\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
 D:\juegazo\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h

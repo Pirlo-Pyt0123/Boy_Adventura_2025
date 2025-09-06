@@ -1,0 +1,5 @@
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Development\Boy_Adventura_2025\Definitions.Boy_Adventura_2025.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\juegazo\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025/Plataformas.h
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Plataformas.generated.h

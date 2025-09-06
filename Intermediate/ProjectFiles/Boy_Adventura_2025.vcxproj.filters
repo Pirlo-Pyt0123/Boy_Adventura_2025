@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Boy_Adventura_2025.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{20A489E6-8D29-41E1-B6C2-E1974581F93C}</UniqueIdentifier>
+      <UniqueIdentifier>{A6EE6FA0-975E-43E9-8C4C-95A49676DF1C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Boy_Adventura_2025.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\Boy_Adventura_2025Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{2B7A279E-AB9B-4D3A-887C-545C580CE172}</UniqueIdentifier>
+      <UniqueIdentifier>{204D509D-746E-48C5-8565-F81BF094E400}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Boy_Adventura_2025">
-      <UniqueIdentifier>{5C8BAF19-AFBF-4113-B338-B1D84A2E6271}</UniqueIdentifier>
+      <UniqueIdentifier>{9BE85DC1-CEE0-4564-8858-6545A447BED7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025.Build.cs">
       <Filter>Source\Boy_Adventura_2025</Filter>
@@ -53,10 +56,22 @@
     <ClInclude Include="..\..\Source\Boy_Adventura_2025\Boy_Adventura_2025GameMode.h">
       <Filter>Source\Boy_Adventura_2025</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Enemigo.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Enemigo.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Boy_Adventura_2025\Obstaculo.cpp">
       <Filter>Source\Boy_Adventura_2025</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Boy_Adventura_2025\Obstaculo.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Obstaculo_Pared.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Obstaculo_Pared.h">
       <Filter>Source\Boy_Adventura_2025</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Boy_Adventura_2025\Obstaculo_Piso.cpp">
@@ -75,6 +90,36 @@
       <Filter>Source\Boy_Adventura_2025</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Boy_Adventura_2025\Piso_Lentitud.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Plataformas.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Plataformas.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Plataformas_Horizontales.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Plataformas_Horizontales.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Plataformas_Verticales.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Plataformas_Verticales.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Pollo1.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Pollo1.h">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Boy_Adventura_2025\Pollo2.cpp">
+      <Filter>Source\Boy_Adventura_2025</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Boy_Adventura_2025\Pollo2.h">
       <Filter>Source\Boy_Adventura_2025</Filter>
     </ClInclude>
   </ItemGroup>

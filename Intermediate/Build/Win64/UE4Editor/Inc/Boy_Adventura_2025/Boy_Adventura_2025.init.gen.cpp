@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeBoy_Adventura_2025_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x985C3675,
-				0x492D3D93,
+				0xFF0FA557,
+				0xC82334A5,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

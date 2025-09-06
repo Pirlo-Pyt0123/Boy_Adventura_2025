@@ -1,0 +1,5 @@
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\DebugGame\Boy_Adventura_2025\Definitions.Boy_Adventura_2025.h
+D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025\Plataformas_Verticales.h
+D:\Game\Boy_Adventura_2025\Source\Boy_Adventura_2025\Plataformas.h
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Plataformas.generated.h
+D:\Game\Boy_Adventura_2025\Intermediate\Build\Win64\UE4Editor\Inc\Boy_Adventura_2025\Plataformas_Verticales.generated.h
